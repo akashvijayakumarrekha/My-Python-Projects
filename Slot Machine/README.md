@@ -37,9 +37,6 @@ In this slot machine simulation, you'll be able to:
 
 Whether you're new to programming or looking to reinforce your Python skills, this project provides a fun and interactive way to practice essential concepts. Feel free to explore and modify the code to experiment with different ideas. If you encounter any issues or have suggestions, we encourage you to contribute by opening issues or submitting pull requests.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 
 
