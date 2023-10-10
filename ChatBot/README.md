@@ -48,7 +48,7 @@ This chatbot can be used for various applications, including but not limited to:
 # Example
 Here's an example of how to use the script:
 
-# This project is licensed under the MIT License.
+This project is licensed under the MIT License.
 
 # Acknowledgments
 OpenAI for providing the GPT-3.5 Turbo model and API.
