@@ -4,7 +4,7 @@ import openai
 openai.api_key = ""
 
 
-def chatbot(promot):
+def chatbot(prompt):
     response = openai.ChatCompletion.create(
         model="gpt-3.5-turbo", messages=[{"role": "Me", "content": prompt}]
     )
