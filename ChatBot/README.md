@@ -1,18 +1,19 @@
-Chatbot with OpenAI GPT-3.5 Turbo
-Description
+# Chatbot with OpenAI GPT-3.5 Turbo
+
+# Description
 This Python script demonstrates how to interact with the OpenAI GPT-3.5 Turbo model using the OpenAI API. It allows you to have a conversation with a chatbot powered by GPT-3.5 Turbo.
 
-About
+# About
 The OpenAI GPT-3.5 Turbo model is a state-of-the-art language model developed by OpenAI. It's designed to understand and generate human-like text, making it suitable for various natural language understanding and generation tasks. This chatbot script leverages the power of GPT-3.5 Turbo to create a conversational experience.
 
-Prerequisites
+# Prerequisites
 Before running the script, you need to set up the following:
 
 1. OpenAI API Key: You must obtain an API key from OpenAI and set it as an environment variable named "API_KEY."
 
 2. Python Environment: Make sure you have Python installed on your system.
 
-Usage
+# Usage
 1. Clone this repository or download the script.
 
 2. Set your OpenAI API key as an environment variable. You can do this by opening a terminal and running the following command:
@@ -27,7 +28,7 @@ python chatbot.py
 
 5. To exit the conversation, type "quit," "exit," or "bye."
 
-Potential Use Cases
+# Potential Use Cases
 This chatbot can be used for various applications, including but not limited to:
 
 1. Information Retrieval: Quickly retrieve information on a wide range of topics, such as facts, definitions, or explanations.
@@ -44,11 +45,10 @@ This chatbot can be used for various applications, including but not limited to:
 
 7. Entertainment: Engage in fun conversations, ask for jokes, or create interactive storytelling experiences.
 
-Example
+# Example
 Here's an example of how to use the script:
 
+# This project is licensed under the MIT License.
 
-This project is licensed under the MIT License.
-
-Acknowledgments
+# Acknowledgments
 OpenAI for providing the GPT-3.5 Turbo model and API.
