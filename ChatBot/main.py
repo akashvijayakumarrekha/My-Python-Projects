@@ -10,3 +10,13 @@ def chatbot(promot):
     )
 
     return response.choices[0].message.content()
+
+
+if __name__ == "__main__":
+    while True:
+        user_input = input("You: ")
+        if user_input.lower() in ["quit", "exit", "bye"]:
+            break
+
+        response = chatbot(user_input)
+        print("Bot: ", response)
