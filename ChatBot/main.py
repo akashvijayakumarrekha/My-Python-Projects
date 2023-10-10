@@ -1,7 +1,7 @@
 import os
 import openai
 
-openai.api_key = ""
+openai.api_key = os.environ.get("API_KEY")
 
 
 def chatbot(prompt):
